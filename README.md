@@ -1,4 +1,4 @@
-Tiny Node microservice that returns the current timestamp, built as part of the FreeCodeCamp curricula/
+Tiny Node microservice that returns the current timestamp, built as part of the FreeCodeCamp curricula. Live at: https://timestamp-unix-fcc.herokuapp.com/
 
 ## User stories
 * I can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date (example: January 1, 2016)
