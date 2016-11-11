@@ -5,6 +5,9 @@
   "dependencies": {
     "express": "^4.14.0"
   },
+  "scripts": {
+    "start": "node app.js"
+  },
   "engines": {
     "node": "7.1.0"
   }
