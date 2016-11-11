@@ -5,18 +5,7 @@
   "dependencies": {
     "express": "^4.14.0"
   },
-  "devDependencies": {
-    "standard": "^8.5.0",
-    "snazzy": "^5.0.0"
-  },
   "engines": {
     "node": "7.1.0"
-  },
-  "scripts": {
-    "start": "node app.js",
-    "test": "snazzy"
-  },
-  "standard": {
-    "globals": ["db"]
   }
 }
